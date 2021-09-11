@@ -16,8 +16,8 @@
 	}
 
 	h1 {
-		color: #ff3e00;
-		text-transform: uppercase;
+		color: #ff3a00;
+		text-transform: lowercase;
 		font-size: 4em;
 		font-weight: 100;
 	}
